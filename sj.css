@@ -18,6 +18,9 @@ div.baggrund {
   min-height: auto;
   margin-bottom: 5%;
 }
+div.kasse img{
+  width: 100%;
+}
 
 div.kasse div.hvid {
   background-color: #488494;
@@ -48,7 +51,7 @@ h2, h4, h5{
 
 iframe {
   width: 100%;
-  border: 0%;
+  border: none;
 }
 
 
